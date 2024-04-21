@@ -13,5 +13,12 @@ Engineering for the EU AI Act Compliance involves the following aspects:
  - **Documentation and Transparency:** Properly documenting the AI system's development process and ensuring a level of transparency appropriate for the risk level
 
 ## Reading List
-
 1. [A Machine Learning Engineer’s Guide To The AI Act](https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/)
+
+### Risk Assessment
+
+1. [Method for (AI System) Risk Classification](https://miro.com/app/board/uXjVOz16ydQ=/)
+
+### Mitigating High Risks
+
+1. [AI safety](https://github.com/elicit/machine-learning-list?tab=readme-ov-file#ai-safety)
