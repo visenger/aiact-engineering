@@ -22,3 +22,5 @@ Engineering for the EU AI Act Compliance involves the following aspects:
 ### Mitigating High Risks
 
 1. [AI safety](https://github.com/elicit/machine-learning-list?tab=readme-ov-file#ai-safety)
+1. [AI Trust Lab: Engineering for Trustworthy AI (CMU)](https://www.sei.cmu.edu/our-work/projects/display.cfm?customel_datapageid_4050=197910)
+
