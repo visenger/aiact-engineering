@@ -4,7 +4,7 @@ This repository provides the reference list for the emerging term "AI Act Engine
 
 **[EU AI Act](https://artificialintelligenceact.eu/)** regulates the development, deployment, and use of AI systems within the European Union. It aims to promote *trustworthy AI* by mitigating risks and ensuring fundamental rights are protected.
 
-We define the term **"AI Act Engineering"** as a set of engineering practices that ensure AI systems comply with the EU AI Act's regulations.
+We define the term **"AI Act Engineering"** as a set of engineering practices, processes, and methodologies needed to develop and deploy AI systems that comply with the requirements of the proposed European Union (EU) AI Act.
 
 Engineering for the EU AI Act Compliance involves the following aspects:
 
