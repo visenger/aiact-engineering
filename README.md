@@ -25,3 +25,8 @@ Engineering for the EU AI Act Compliance involves the following aspects:
 1. [AI Trust Lab: Engineering for Trustworthy AI (CMU)](https://www.sei.cmu.edu/our-work/projects/display.cfm?customel_datapageid_4050=197910)
 1. [ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/)
 
+### Documentation and Transparency
+
+1. [Model Cards for Model Reporting (paper)](https://arxiv.org/pdf/1810.03993.pdf)
+
+
