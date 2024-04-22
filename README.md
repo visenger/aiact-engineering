@@ -28,5 +28,5 @@ Engineering for the EU AI Act Compliance involves the following aspects:
 ### Documentation and Transparency
 
 1. [Model Cards for Model Reporting (paper)](https://arxiv.org/pdf/1810.03993.pdf)
-
+1. [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit)
 
