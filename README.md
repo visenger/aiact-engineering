@@ -24,6 +24,7 @@ Engineering for the EU AI Act Compliance involves the following aspects:
 1. [AI safety](https://github.com/elicit/machine-learning-list?tab=readme-ov-file#ai-safety)
 1. [AI Trust Lab: Engineering for Trustworthy AI (CMU)](https://www.sei.cmu.edu/our-work/projects/display.cfm?customel_datapageid_4050=197910)
 1. [ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/)
+1.[Guidelines for secure AI system development](https://www.ncsc.govt.nz/assets/Uploads/Guidelines-for-secure-AI-system-development-v2.pdf)
 
 ### Documentation and Transparency
 
