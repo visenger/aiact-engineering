@@ -8,9 +8,9 @@ We define the term **"AI Act Engineering"** as a set of engineering practices, p
 
 Engineering for the EU AI Act Compliance involves the following aspects:
 
- - **Risk Assessment:** Classifying AI systems based on their risk level (*unacceptable, high, limited, low*) as defined by the Act.
- - **Mitigating High Risks:** For high-risk systems, implementing safeguards like robust data management, human oversight mechanisms, and explainable AI techniques.
- - **Documentation and Transparency:** Properly documenting the AI system's development process and ensuring a level of transparency appropriate for the risk level
+ - **Risk Assessment:** Classifying AI systems based on their risk level (*unacceptable, high, limited, low*) as defined by the EU AI Act.
+ - **Mitigating High Risks:** For high-risk systems, implementing safeguards like robust data management, human oversight mechanisms, and explainable AI techniques. Engineering AI systems under the EU AI Act would require robust testing and validation to ensure that they meet safety, accuracy, and reliability standards. This might include implementing and documenting extensive risk assessments, mitigation strategies, and quality control measures.
+ - **Documentation and Transparency:** Properly documenting the AI system's development process and ensuring a level of transparency appropriate for the risk level. Developers would need to maintain detailed records of AI training data, algorithms, and processes to meet transparency requirements. This documentation would be crucial for audits and for providing explanations of AI system decisions when necessary.
 
 ## Reading List
 1. [A Machine Learning Engineer’s Guide To The AI Act](https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/)
