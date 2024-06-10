@@ -31,3 +31,13 @@ Engineering for the EU AI Act Compliance involves the following aspects:
 1. [Model Cards for Model Reporting (paper)](https://arxiv.org/pdf/1810.03993.pdf)
 1. [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit)
 
+### AI Act Engineering Tooling Landscape
+
+1. [The LF AI & Data Foundation](https://lfaidata.foundation/projects/)
+1. [GenAI Infra Stack](https://sapphireventures.com/blog/building-the-future-a-deep-dive-into-the-generative-ai-app-infrastructure-stack/)
+1. [GenAI App Stack](https://github.com/a16z-infra/llm-app-stack)
+1. [AI Infrastructure Stack](https://ai-infrastructure.org/ai-infrastructure-landscape/)
+1. [The 2024 MAD (Machine Learning, AI and Data) Landscape](https://mattturck.com/mad2024/)
+1. [The State of Data Engineering](https://lakefs.io/blog/the-state-of-data-engineering-2024/#)
+1. [ML Testing Landscape](https://www.efemarai.com/post/machine-learning-testing-landscape )
+
