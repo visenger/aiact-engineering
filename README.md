@@ -13,7 +13,8 @@ Engineering for the EU AI Act Compliance involves the following aspects:
  - **Documentation and Transparency:** Properly documenting the AI system's development process and ensuring a level of transparency appropriate for the risk level. Developers would need to maintain detailed records of AI training data, algorithms, and processes to meet transparency requirements. This documentation would be crucial for audits and for providing explanations of AI system decisions when necessary.
 
 ## Reading List
-1. [A Machine Learning Engineer’s Guide To The AI Act](https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/)
+1. [The AI Engineer's Guide to Surviving the EU AI Act. By Larysa Visengeriyeva](https://learning.oreilly.com/library/view/the-ai-engineers/9781098172480/)
+2. [A Machine Learning Engineer’s Guide To The AI Act](https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/)
 
 ### Risk Assessment
 
@@ -40,4 +41,7 @@ Engineering for the EU AI Act Compliance involves the following aspects:
 1. [The 2024 MAD (Machine Learning, AI and Data) Landscape](https://mattturck.com/mad2024/)
 1. [The State of Data Engineering](https://lakefs.io/blog/the-state-of-data-engineering-2024/#)
 1. [ML Testing Landscape](https://www.efemarai.com/post/machine-learning-testing-landscape )
+
+### AI Engineering 
+1. [LLM engineer handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook)
 
