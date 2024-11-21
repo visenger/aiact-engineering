@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B416E7UI)
+
 # EU AI Act Engineering
 
 This repository provides the reference list for the emerging term ["AI Act Engineering"](https://aiact-engineering.com). 
